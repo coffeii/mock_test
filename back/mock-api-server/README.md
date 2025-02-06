@@ -97,3 +97,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+안녕하세요. 깃 테스트입니다.
+
+내부적으로 쓸 mock 서버를 구상중입니다.
+최대한 간단하게 서버와, 서버에 등록가능한 프론트를 구성하려고 생각중입니다.
